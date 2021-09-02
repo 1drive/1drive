@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Seungheon Han.
-- 👀 I’m interested in 💻 📱 📷 🎞 🎧.
-- 🌱 I’m currently learning How to live life.
-- 💞️ I’m looking to collaborate on Python.
+[seungheonhan.com](https://seungheonhan.com) 오우너입니다.
 
 <!---
 1drive/1drive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
